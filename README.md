@@ -76,9 +76,3 @@ Ambos modelos se reentrenaron utilizando los datos de Galaxy Zoo. El proceso inc
 ## Conclusiones
 
 La comparación entre Efficient-B0 y DEIT-Tiny revela que, aunque ambos modelos son poderosos, Efficient-B0 mostró una ligera ventaja en términos de precisión y pérdida de validación. La combinación de ambos enfoques podría ofrecer una solución robusta para la clasificación automática de galaxias.
-
-## Cómo Usar
-
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
