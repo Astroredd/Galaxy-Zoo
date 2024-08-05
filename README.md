@@ -11,11 +11,6 @@ Este proyecto tiene como objetivo comparar el rendimiento de dos tipos de modelo
 - [Entrenamiento de los Modelos](#entrenamiento-de-los-modelos)
 - [Resultados](#resultados)
 - [Conclusiones](#conclusiones)
-- [Cómo Usar](#cómo-usar)
-- [Detalles Técnicos del Código](#detalles-técnicos-del-código)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
-- [Contacto](#contacto)
 
 ## Introducción
 
